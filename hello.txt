@@ -1,3 +1,7 @@
 HiuBi First Line
 Matthew Second Line
+<<<<<<< HEAD
 34567
+=======
+tambo
+>>>>>>> origin/master
