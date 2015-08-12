@@ -7,4 +7,8 @@ tambo
 >>>>>>> origin/master
 alo HiuBi
 HS: dau cho S
+<<<<<<< HEAD
 lalalalal
+=======
+test test
+>>>>>>> origin/master
